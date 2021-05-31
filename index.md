@@ -1,6 +1,6 @@
 ## Welcome to SvTre Widgets
 
-Collection widgets free for website by http://svtre.com
+Collection widgets free for website by [http://svtre.com](http://svtre.com)
 
 You can use the [editor on GitHub](https://github.com/SvTreDev/Widgets/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -36,4 +36,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) https://svtre.com/lienhe
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) [https://svtre.com/lienhe](https://svtre.com/lienhe)
